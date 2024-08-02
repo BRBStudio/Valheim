@@ -1,0 +1,23 @@
+{
+  "name": "moi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Lỗi: không có bài kiểm tra nào được chỉ định\" && exit 1"
+  },
+  "author": "Valheim Survival",
+  "license": "ISC",
+  "dependencies": {
+    "ascii-table": "^0.0.9",
+    "axios": "^1.7.3",
+    "chalk": "^5.3.0",
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.3.1",
+    "figlet": "^1.7.0",
+    "fs": "^0.0.1-security",
+    "mongodb": "^6.3.0",
+    "mongoose": "^8.5.2",
+    "ms": "^2.1.3"
+  }
+}
